@@ -1,4 +1,4 @@
-package com.jjm.gm_springboot;
+package com.jjm.gm_springboot.utils;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.annotation.FieldFill;
