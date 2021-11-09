@@ -2,7 +2,7 @@ package com.jjm.gm_springboot.advice;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.jjm.myapp.utils.ResultData;
+import com.jjm.gm_springboot.utils.ResultData;
 import org.apache.ibatis.annotations.Result;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.MethodParameter;

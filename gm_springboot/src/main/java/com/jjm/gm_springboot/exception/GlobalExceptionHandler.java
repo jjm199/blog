@@ -1,7 +1,7 @@
 package com.jjm.gm_springboot.exception;
 
-import com.jjm.myapp.utils.ResponseCode;
-import com.jjm.myapp.utils.ResultData;
+import com.jjm.gm_springboot.utils.ResponseCode;
+import com.jjm.gm_springboot.utils.ResultData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.ExceptionHandler;

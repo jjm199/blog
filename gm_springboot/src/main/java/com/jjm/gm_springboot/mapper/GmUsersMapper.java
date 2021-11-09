@@ -1,6 +1,7 @@
 package com.jjm.gm_springboot.mapper;
 
-import com.jjm.gm_springboot.pojo.GmUsers;
+import com.jjm.gm_springboot.entity.GmUsers;
+
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

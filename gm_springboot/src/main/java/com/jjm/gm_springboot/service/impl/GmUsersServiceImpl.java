@@ -1,6 +1,6 @@
 package com.jjm.gm_springboot.service.impl;
 
-import com.jjm.gm_springboot.pojo.GmUsers;
+import com.jjm.gm_springboot.entity.GmUsers;
 import com.jjm.gm_springboot.mapper.GmUsersMapper;
 import com.jjm.gm_springboot.service.GmUsersService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -15,6 +15,10 @@ public class ResultData {
         return resultData(ResponseCode.SUCCESS.val(), ResponseCode.SUCCESS.msg(), data);
     }
 
+    public static ResultData success() {
+        return resultData(ResponseCode.SUCCESS.val(), ResponseCode.SUCCESS.msg(), null);
+    }
+
     public static ResultData success(Object data, String msg) {
         return resultData(ResponseCode.SUCCESS.val(), msg, data);
     }
